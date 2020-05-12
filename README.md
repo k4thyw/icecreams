@@ -3,6 +3,9 @@
 #my favorite flavors
 # - strawberry
 # - cookies and cream
+# - black sesame
 # - vanilla
 # - chocolate
-# - i cant think of any more whoops
+# - coffee
+# - banana
+# - green apple
